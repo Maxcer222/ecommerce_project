@@ -44,13 +44,14 @@ The application is hosted on **AWS**. Experience the full shopping flow here:
    cd ecommerce-backend
    npm install
    npm start
+```
 
-3. Setup & Start Frontend
+3.**Setup & Start Frontend**
 Open a new terminal window, then:
 ```bash
    cd ecommerce-project
    npm install
    npm run dev
-
+```
 Note: Make sure you have Node.js installed on your machine before starting.
    
