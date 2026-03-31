@@ -39,5 +39,17 @@ The application is hosted on **AWS**. Experience the full shopping flow here:
    ```bash
    git clone [https://github.com/Maxcer222/ecommerce_project.git](https://github.com/Maxcer222/ecommerce_project.git)
 
+2. Setup & Start Backend
+Bash
+cd ecommerce-backend
+npm install
+npm start
+3. Setup & Start Frontend
+Open a new terminal window, then:
 
+Bash
+cd ecommerce-project
+npm install
+npm run dev
+Note: Make sure you have Node.js installed on your machine before starting.
    
